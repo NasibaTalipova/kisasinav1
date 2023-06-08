@@ -1,4 +1,4 @@
-# kisasinav1
+# Algoritma analizi
 Algoritma analizi, algoritmanın yürütülmesi için gerekli kaynak miktarının belirlenmesidir. Belirli bir problemi çözen herhangi bir algoritmanın ihtiyaç duyduğu kaynaklar için teorik tahminler sağlar. Başka bir ifadeyle, algoritmanın performansı ve kaynak kullanımı konusunda yapılan teorik çalışmaların tümüne algoritma analizi denir. 
 
 Algoritma analizi veya diğer adıyla algoritma çözümlemesi, bilgisayar biliminde bir algoritmayı çalıştırabilmek için gereken kaynakların (zaman, yer gibi) miktarının tespitidir. Algoritmaların çoğunluğu, rastgele seçilmiş uzunluktaki girdiler ile çalışmak için tasarlanmıştır. 
